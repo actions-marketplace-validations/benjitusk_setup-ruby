@@ -106,6 +106,7 @@ export const supportedPlatforms = [
   'macos-11.0',
   'windows-2019',
   'windows-2022',
+  'macos-12.0'
 ]
 
 export function getVirtualEnvironmentName() {
